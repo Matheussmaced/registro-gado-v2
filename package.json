@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "date-fns": "^4.1.0",
+    "@types/axios": "^0.9.36",
+    "axios": "^1.8.4",
     "fjsv2": "file:",
     "next": "15.3.0",
     "react": "^19.0.0",
